@@ -8,12 +8,12 @@ I’m interesting in becoming a Cloud Infrastructure Engineer and am currently a
 
 | Tool | What I Do With It |
 |------|-------------------|
-| **Terraform** | Provision OCI VCNs, private subnets, security lists, compute instances – **fully IaC** |
-| **Puppet** | Automate Apache web servers: `mod_security`, TLS, reverse proxy, CIS-hardening |
+| **Terraform** | Provision OCI VCNs, private subnets, security lists, compute instances  |
+| **Puppet** | Automate Apache web servers|
 | **OCI** | Deploy private cloud networks, VMs, NAT gateways, bastion hosts |
-| **IBM Kubernetes (IKS)** | Orchestrate containerized apps with secure networking to OCI |
+| **IBM Kubernetes (IKS)** | Orchestrate containerized apps with Terraform & Ansible |
 | **Apache** | Build hardened web tiers with automated config management |
-| **Linux / Bash** | Glue everything together with scripts that never break in prod |
+
 
 ---
 
