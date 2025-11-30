@@ -1,17 +1,14 @@
 # Hi, I’m **Brandyn** 👋
-I’m interested in becoming a Cloud Infrastructure Engineer and am currently a student at the University of Minnesota Twin Cities.
+I am currently a student at the University of Minnesota Twin Cities, and am interested in Cloud Infrastructure and IaC.
 
 ---
 ## Current Stack
 
 | Tool                       | What I Do With It                                                      |
 |----------------------------|------------------------------------------------------------------------|
-| **Terraform**              | Provision OCI VCNs, private subnets, security lists, compute instances |
-| **Puppet**                 | Automate Apache web servers                                            |
-| **Oracle Cloud Containers**| Deploy private cloud networks, VMs, NAT gateways, bastion hosts       |
-| **IBM Kubernetes**         | Orchestrate containerized apps with Terraform & Ansible                |
-| **Apache**                 | Build hardened web tiers with automated config management             |
-
+| **Terraform**              | Provision OCI VMs and IBM Kubernete Clusers avaliable through Tailscale |
+| **Oracle Cloud Containers**| Deploy private cloud networks, VMs, NAT gateways, bastion hosts         |
+| **IBM Kubernetes**         | Orchestrate containerized apps with Terraform & TailScale               |
 ---
 ## What I’m Building Right Now
 
@@ -20,5 +17,4 @@ graph LR
     A[Terraform] --> B[OCI Private VCN]
     B --> C[Compute VM]
     C --> D[Puppet Agent]
-    D --> E[Apache + TLS + ModSecurity]
     F[IBM IKS Cluster] --> G[VPN Tunnel to OCI]
