@@ -2,15 +2,6 @@
 I am currently a student at the University of Minnesota Twin Cities, and am interested in Cloud Infrastructure and IaC.
 
 ---
-## Current Stack
-
-| Tool                       | What I Do With It                                                      |
-|----------------------------|------------------------------------------------------------------------|
-| **Terraform**               | Provision OCI VMs and IBM Kubernetes Clusters for Web Hosting |
-| **Oracle Cloud Containers** | Deploying private cloud networks, VMs, NAT gateways        |
-| **IBM Kubernetes**          | Containerizing Apps like Flask to setup small Web Servers on pods and worker nodes               |
-
----
 ## What I’m Building Right Now
 
 ```mermaid
